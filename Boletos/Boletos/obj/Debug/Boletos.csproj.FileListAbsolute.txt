@@ -1,0 +1,10 @@
+C:\Users\Manager\Desktop\Boletos\Boletos\bin\Debug\Boletos.exe.config
+C:\Users\Manager\Desktop\Boletos\Boletos\bin\Debug\Boletos.exe
+C:\Users\Manager\Desktop\Boletos\Boletos\bin\Debug\Boletos.pdb
+C:\Users\Manager\Desktop\Boletos\Boletos\obj\Debug\Boletos.csproj.AssemblyReference.cache
+C:\Users\Manager\Desktop\Boletos\Boletos\obj\Debug\Boletos.Form1.resources
+C:\Users\Manager\Desktop\Boletos\Boletos\obj\Debug\Boletos.Properties.Resources.resources
+C:\Users\Manager\Desktop\Boletos\Boletos\obj\Debug\Boletos.csproj.GenerateResource.cache
+C:\Users\Manager\Desktop\Boletos\Boletos\obj\Debug\Boletos.csproj.CoreCompileInputs.cache
+C:\Users\Manager\Desktop\Boletos\Boletos\obj\Debug\Boletos.exe
+C:\Users\Manager\Desktop\Boletos\Boletos\obj\Debug\Boletos.pdb
